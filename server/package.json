@@ -1,0 +1,10 @@
+{
+  "name": "chatserver",
+  "version": "0.0.1",
+  "description": "A sample Node.js app",
+  "main": "chatServer.js",
+  "dependencies": {
+  },
+  "author": "Nathan Jewell",
+  "license": "MIT"
+}
